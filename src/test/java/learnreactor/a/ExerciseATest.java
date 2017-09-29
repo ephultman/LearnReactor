@@ -1,8 +1,4 @@
-package learnreactor;
-
-import learnreactor.a.ParallelRepeatingSimplePublisher;
-import learnreactor.a.RepeatingSimplePublisher;
-import learnreactor.a.SimplePublisher;
+package learnreactor.a;
 
 import org.junit.Test;
 

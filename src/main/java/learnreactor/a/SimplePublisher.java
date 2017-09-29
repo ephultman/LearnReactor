@@ -6,7 +6,6 @@ import reactor.core.publisher.Flux;
 
 /*
     Decorator around a simple Flux<String> to demonstrate the Publisher interface
-
  */
 public class SimplePublisher implements Publisher<String> {
 
